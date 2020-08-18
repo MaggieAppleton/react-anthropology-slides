@@ -5,9 +5,6 @@ Slides from my talk presented React Rally 2020.
 
 [Read the full blog post here](http://maggieappleton.com/anthropology-react)
 
-This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
-
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
@@ -27,3 +24,8 @@ This work is licensed under a
 ![](slides/ReactRally2020-Draft1.025.png)
 
 ![](slides/ReactRally2020-Draft1.031.png)
+
+---
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
