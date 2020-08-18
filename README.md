@@ -1,7 +1,9 @@
 # The Cultural Anthropology of React
 ### Magic, Kinship, and Ritual among the developers
 
-Slides from my talk at React Rally 2020
+Slides from my talk presented React Rally 2020.
+
+[Read the full blog post here](http://maggieappleton.com/anthropology-react)
 
 ![](slides/ReactRally2020-Draft1.001.png)
 
