@@ -7,13 +7,15 @@ Slides from my talk presented React Rally 2020.
 
 ![](slides/ReactRally2020-Draft1.001.png)
 
-![](slides/ReactRally2020-Draft1.008.png)
-
 ![](slides/ReactRally2020-Draft1.010.png)
 
 ![](slides/ReactRally2020-Draft1.012.png)
 
 ![](slides/ReactRally2020-Draft1.015.png)
+
+![](slides/ReactRally2020-Draft1.025.png)
+
+![](slides/ReactRally2020-Draft1.031.png)
 
 ---
 
