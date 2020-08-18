@@ -1,5 +1,5 @@
 # The Cultural Anthropology of React
-## Magic, Kinship, and Ritual among the developers
+### Magic, Kinship, and Ritual among the developers
 
 Slides from my talk at React Rally 2020
 
