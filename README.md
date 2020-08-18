@@ -3,7 +3,15 @@
 
 Slides from my talk at React Rally 2020
 
+![](slides/ReactRally2020-Draft1.001.png)
 
+![](slides/ReactRally2020-Draft1.008.png)
+
+![](slides/ReactRally2020-Draft1.010.png)
+
+![](slides/ReactRally2020-Draft1.012.png)
+
+![](slides/ReactRally2020-Draft1.015.png)
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
